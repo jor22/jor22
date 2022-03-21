@@ -1,10 +1,3 @@
-{ “name” : “Jorge Ariel Castillo”, 
-“role” : “FullStack Developer”, 
-“data” : 
-{ 
-"Linkedin" : "www.linkedin.com/in/jorge-ariel-castillo/", 
-}
-};
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
