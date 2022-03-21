@@ -1,3 +1,17 @@
+Me consideró una persona predispuesta , con mucho entusiasmo y muy detallista,
+Tengo una gran adaptabilidad a diferentes entornos y grupos laborales. Desempeño mis funciones con alto rendimiento y eficacia.
+Soy FullStack developer con experiencia académica creando aplicaciones Web. Utilizo Tecnologias como Express, React, Nodejs ,PostgreSQL para generar proyectos escalables y moduralizables. 
+Me interesa el desarrollo frontend, pero a su vez cuento con conociminetos en backend.
+
+Experiencia Laboral 👨🏼‍🏫
+✅ Experiencia principalmente académica y autodidacta, creando diferentes proyectos personales. 
+✅ Actualmente me encuentro en la última etapa del Bootcamp "Soy Henry", en la cual, además de desarrollar habilidades técnicas, desarrollo habilidades sociales trabajando en equipo con otros developers.
+
+Pongámonos en contacto 📩
+
+Jorge22ac@gmail.com
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
